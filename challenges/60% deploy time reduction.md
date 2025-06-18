@@ -50,4 +50,4 @@ These are vendor-neutral, reusable techniques you can adopt to improve your own 
 
 > 📌 These public guidelines reflect real lessons learned over several years. They’re not company-specific and are designed to help other DevOps teams adopt scalable, maintainable deployment practices.
 
-⭐ **If you found this helpful, please consider starring our repositories to support more content like this and help others discover production-grade DevOps practices.**
+⭐ If this helped you, consider starring our repository to support open production-ready DevOps playbooks.

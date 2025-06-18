@@ -54,13 +54,13 @@
     Empower developers to verify changes in real time.
 
 ##  Results Achieved
-✅ Proactive detection of downtime within 5 minutes
+ Proactive detection of downtime within 5 minutes
 
-🔍 Instant visibility into latency and content issues
+ Instant visibility into latency and content issues
 
-🛡️ Increased reliability and trust in production services
+ Increased reliability and trust in production services
 
-📦 All infrastructure and logic defined in versioned Git
+ All infrastructure and logic defined in versioned Git
 
 📌 These DevOps practices are easy to adopt, require no external services, and dramatically improve uptime observability across environments. Perfect for teams already using GitHub Actions.
 
