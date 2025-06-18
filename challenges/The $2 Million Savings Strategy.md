@@ -6,11 +6,11 @@ Many organizations struggle with growing cloud bills due to over-provisioning, l
 
 ## 📊 Key Challenges Faced
 
-- 🔍 Lack of cost visibility across environments and teams
-- 🧪 Dozens of testers with high-cost enterprise tool licenses
-- 📦 Over-provisioned infrastructure and test environments
-- ♻️ Unused PersistentVolumes, long-lived dev clusters
-- 🐘 Heavy CI/CD resource consumption without dependency control
+-  Lack of cost visibility across environments and teams
+-  Dozens of testers with high-cost enterprise tool licenses
+-  Over-provisioned infrastructure and test environments
+-  Unused PersistentVolumes, long-lived dev clusters
+-  Heavy CI/CD resource consumption without dependency control
 
 ## 🧭 Strategy Summary
 
@@ -68,11 +68,11 @@ Many organizations struggle with growing cloud bills due to over-provisioning, l
 
 ## 📈 Impact Summary
 
-- 🚀 Reduced cloud bill by **30% in 6 months**
-- 💸 Achieved **$200K+ annual savings**
-- 🧭 Centralized cost dashboards for leadership
-- 🔧 Enabled self-optimization by engineers
-- 🏆 Promotable contribution based on cross-team impact
+-  Reduced cloud bill by **30% in 6 months**
+-  Achieved **$200K+ annual savings**
+-  Centralized cost dashboards for leadership
+-  Enabled self-optimization by engineers
+-  Promotable contribution based on cross-team impact
 
 ## 🧪 Tools Used
 

@@ -44,9 +44,9 @@ These are vendor-neutral, reusable techniques you can adopt to improve your own 
 ### 📈 Results Achieved
 
 - 🕒 **60% faster build & deployment times**
-- 🔁 Increased deployment frequency & velocity
-- 🛡️ Immutable infrastructure and full deployment traceability
-- 💬 Higher developer satisfaction across teams
+-  Increased deployment frequency & velocity
+-  Immutable infrastructure and full deployment traceability
+-  Higher developer satisfaction across teams
 
 > 📌 These public guidelines reflect real lessons learned over several years. They’re not company-specific and are designed to help other DevOps teams adopt scalable, maintainable deployment practices.
 
